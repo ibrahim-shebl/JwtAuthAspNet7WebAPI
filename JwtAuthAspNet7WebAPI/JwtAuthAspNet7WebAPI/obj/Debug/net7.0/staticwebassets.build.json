@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JqTeC7aH3mXfhArZLcQmRDD5QnNNCdqhar/NMQB8U0U=",
+  "Source": "JwtAuthAspNet7WebAPI",
+  "BasePath": "_content/JwtAuthAspNet7WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
